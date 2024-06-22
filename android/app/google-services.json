@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "179798066529",
+    "project_id": "care-app-1",
+    "storage_bucket": "care-app-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179798066529:android:0cc8a8c83aa29d995a7120",
+        "android_client_info": {
+          "package_name": "com.example.care_app_two"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5fD4NxwTgMjlt4uQMdUSEHU000Td3JTk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
